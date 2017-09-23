@@ -1,0 +1,16 @@
+#Number of file patterns (replace 'x' with required number)
+No. of file patterns:	x
+#Number of file (replace 'y' with required number)
+No. of files:	y
+#Number of files to be dropped at once (replace 'z' with required number)
+No. of files per drop:	z
+#Time interval to wait (if fixed, then put same values for minimum and maximum time, if random between a range, enter range)
+Minimum time:	10	Maximum time:	10
+#Size of file (replace 's' with required size in MB)
+Size of each of file:	s
+#Specify format of the metadata file (put the format with dot(.) as prefix in the quotes provided, empty quotes('') for none)
+Metadata file:	""
+#Specify format of the control file (put the format with dot(.) as prefix in the quotes provided, empty quotes('') for none)
+Control file:	""
+#Specify format of the trigger file (put the format with dot(.) as prefix in the quotes provided, empty quotes('') for none)
+Trigger file:	""

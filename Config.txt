@@ -1,0 +1,5 @@
+#<FieldName>,<DataType>,<Size>,<Sequence>,<Format>,<Start>,<End>
+EmpID,INTEGER,8,Unique,,,
+Name,STRING,10,Random,,,
+Designation,STRING,10,Random,,,
+Address,STRING,10,Random,,,

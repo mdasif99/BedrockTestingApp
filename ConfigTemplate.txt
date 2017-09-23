@@ -1,0 +1,11 @@
+#<FieldName>,<DataType>,<Size>,<Sequence>,<Format>,<Start>,<End>
+Field1,Integer,6,Unique,%6d,,
+Field2,String,1,Random,,,
+Field3,String,0,Random,,Yes,No
+Field4,Alphanumeric,10,Random,$s,a,b
+Field5,Date,0,Random,%d-%m-%Y,2015-10-10,2015-10-11
+Field6,Float,5,Random,%5.3f,,
+Field7,Time,0,Random,%H:%M:%S %p,10:00:00.00,10:00:02.00
+Field8,DateTime,0,Random,%d-%m-%Y %H:%M:%S,,
+Field9,String,0,Fixed,%010d,,
+Field10,Integer,5,Random,%05d,1,1000
